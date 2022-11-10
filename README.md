@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @george4joseph
-- 👀 I’m interested in development, Data science especially in health care
+- 👀 I’m interested in development - blockchain, Data science 
 - 🌱 I’m currently learning Flask and Golang
 - 💞️ I’m looking to collaborate on Golang projects
 - 📫 How to reach me -> mail@georgejoseph.in   && check me https://www.linkedin.com/in/ge-orgejoseph2019/
